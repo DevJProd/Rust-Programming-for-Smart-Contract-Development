@@ -1,5 +1,3 @@
-
-
 fn concatenate_strings(s1: &str, s2: &str)-> String {
 
     let mut result: String = String::from("");
