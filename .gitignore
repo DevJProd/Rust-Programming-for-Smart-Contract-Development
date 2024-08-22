@@ -1,5 +1,0 @@
-# Build output
-target/
-
-# Cargo lock file for library projects
-Cargo.lock
