@@ -37,6 +37,7 @@ fn main() {
     let mut _b2 = _BankAccount { _account_number: 2, _holder_name: String::from("Javier"), _balance: 1000.00};
 
     _b1.deposit(10000.0);
+    
     _b2.withdraw(100.0);
     
     println!("{}",_b1.balance());

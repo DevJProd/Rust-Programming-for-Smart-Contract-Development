@@ -1,1 +1,0 @@
-C:\Users\jgsx9\Desktop\SWLab\Rust\Rust-Programming-for-Smart-Contract-Development\FilteringFunction-Task\target\debug\FilteringFunction-Task.exe: C:\Users\jgsx9\Desktop\SWLab\Rust\Rust-Programming-for-Smart-Contract-Development\FilteringFunction-Task\src\main.rs
